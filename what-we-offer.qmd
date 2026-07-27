@@ -82,6 +82,12 @@ after the diver training.
 :::
 :::
 
+::: {.photo-section style="background-image:url(images/offer-photo-band.jpg)"}
+::: {.photo-section__caption}
+<span>A whale shark — one of the many reasons recipients train for a career in the ocean</span>
+:::
+:::
+
 ::: {.section .section--sand}
 ::: {.section__inner .section__inner--narrow}
 [Looking ahead]{.eyebrow}

@@ -64,6 +64,12 @@ next generation of ocean leaders.
 :::
 :::
 
+::: {.photo-section style="background-image:url(images/contact-photo-band.jpg)"}
+::: {.photo-section__caption}
+<span>Marine iguanas — a reminder of the diversity of marine life across Oceania and beyond</span>
+:::
+:::
+
 ::: {.section .section--deep}
 ::: {.section__inner .split}
 ::: {}

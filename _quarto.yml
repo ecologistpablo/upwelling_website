@@ -8,6 +8,8 @@ project:
     - application.qmd
     - contact.qmd
     - 404.qmd
+  resources:
+    - images/  # background photos referenced via inline-style url() aren't auto-detected
 
 website:
   title: "The Upwelling Project"

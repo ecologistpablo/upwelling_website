@@ -72,6 +72,26 @@ main.content { margin: 0; padding: 0; max-width: none; }
 }
 .hero::before { width: 520px; height: 520px; right: -130px; top: -180px; }
 .hero::after { width: 680px; height: 680px; right: -250px; top: -230px; }
+
+// Photo variant: a real photograph behind the headline instead of the gradient.
+// Set the image inline so the url() resolves relative to the page, not the
+// compiled stylesheet: style="background-image:url(images/your-photo.jpg)"
+.hero--photo {
+  background: #04262e;
+  background-size: cover;
+  background-position: center;
+}
+.hero--photo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(115deg, rgba(4, 38, 46, .88) 15%, rgba(4, 38, 46, .38) 55%, rgba(4, 38, 46, .18) 100%);
+  border: none;
+  border-radius: 0;
+  width: auto;
+  height: auto;
+}
+.hero--photo::after { display: none; }
 .hero__inner {
   position: relative;
   z-index: 1;
@@ -195,6 +215,73 @@ main.content { margin: 0; padding: 0; max-width: none; }
   font-size: clamp(1.08rem, 2vw, 1.28rem);
   line-height: 1.65;
 }
+
+// Photo variant of the page-hero banner used on inner pages.
+// Set the image inline: style="background-image:url(images/your-photo.jpg)"
+.page-hero--photo {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+.page-hero--photo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(4, 38, 46, .82), rgba(4, 38, 46, .55));
+}
+.page-hero--photo .page-hero__inner { position: relative; z-index: 1; }
+.page-hero--photo h1 { color: #fff; }
+.page-hero--photo p { color: rgba(255, 255, 255, .84); }
+.page-hero--photo .eyebrow { color: rgba(255, 255, 255, .72); }
+
+// Full-bleed photo band with a caption — the reusable "drop a photo here"
+// pattern. Set the image inline: style="background-image:url(images/your-photo.jpg)"
+.photo-section {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  min-height: 52vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+}
+.photo-section__caption {
+  width: 100%;
+  padding: 26px 24px;
+  background: linear-gradient(transparent, rgba(4, 38, 46, .72));
+  color: #fff;
+}
+.photo-section__caption span {
+  display: block;
+  max-width: 1160px;
+  margin: 0 auto;
+  font-size: 14px;
+  letter-spacing: .04em;
+}
+
+// Photo gallery tiles — reuse the .cards grid, swap .card for .card-photo.
+.card-photo {
+  position: relative;
+  min-height: 300px;
+  border-radius: 20px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  transition: transform .18s ease, box-shadow .18s ease;
+}
+.card-photo:hover { transform: translateY(-4px); box-shadow: 0 20px 48px rgba(6, 76, 89, .28); }
+.card-photo__body {
+  width: 100%;
+  padding: 26px 22px 22px;
+  background: linear-gradient(transparent, rgba(4, 38, 46, .85));
+  color: #fff;
+}
+.card-photo__body h3 { margin: 0 0 6px; color: #fff; font-size: 1.15rem; }
+.card-photo__body p { margin: 0; color: rgba(255, 255, 255, .82); font-size: .95rem; line-height: 1.5; }
 
 .cards {
   display: grid;

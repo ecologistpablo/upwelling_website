@@ -3,7 +3,7 @@ title: ""
 page-layout: full
 ---
 
-::: {.hero}
+::: {.hero .hero--photo style="background-image:url(images/home-hero.jpg)"}
 ::: {.hero__inner}
 <div class="hero__mark" aria-hidden="true">↟</div>
 
@@ -34,6 +34,12 @@ them take the next step.
 Our work begins with scientific and professional diving. Over time, we aim to
 support research, community and development programs across our region.
 </div>
+:::
+:::
+
+::: {.photo-section style="background-image:url(images/home-photo-band.jpg)"}
+::: {.photo-section__caption}
+<span>The waters our recipients are training to protect</span>
 :::
 :::
 
@@ -69,6 +75,42 @@ experience and the networks that help launch marine careers.
 
 Each award combines formal training with hands-on experience, helping a
 recipient turn a qualification into a practical next step.
+:::
+:::
+:::
+:::
+
+::: {.section}
+::: {.section__inner}
+[The ocean we're working for]{.eyebrow}
+
+<h2 class="section__title">This is what a healthy ocean looks like</h2>
+
+<p class="section__lead">The species and ecosystems our recipients train alongside — and the reason this work matters.</p>
+
+::: {.cards}
+::: {.card-photo style="background-image:url(images/gallery-hammerheads.jpg)"}
+::: {.card-photo__body}
+### Schooling hammerheads
+
+Apex predators that signal a thriving reef ecosystem.
+:::
+:::
+
+::: {.card-photo style="background-image:url(images/gallery-anemonefish.jpg)"}
+::: {.card-photo__body}
+### Anemonefish
+
+Small reef species whose survival depends on healthy coral habitat.
+:::
+:::
+
+::: {.card-photo style="background-image:url(images/gallery-octopus.jpg)"}
+::: {.card-photo__body}
+### Reef octopus
+
+A reminder of the biodiversity our recipients learn to study and protect.
+:::
 :::
 :::
 :::
