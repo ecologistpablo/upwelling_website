@@ -1,0 +1,81 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.page-hero}
+::: {.page-hero__inner}
+[Contact]{.eyebrow}
+
+# Start a conversation
+
+<p>Whether you are planning to apply, exploring a partnership or looking to support emerging ocean leaders, we would like to hear from you.</p>
+:::
+:::
+
+::: {.section}
+::: {.section__inner}
+[Who we hear from]{.eyebrow}
+
+<h2 class="section__title">Choose the path that fits</h2>
+
+::: {.cards}
+::: {.card .contact-card}
+<div class="card__number">01</div>
+
+### Applicants
+
+Questions about eligibility, training options, placements or the 2027
+application process.
+:::
+
+::: {.card .contact-card}
+<div class="card__number">02</div>
+
+### Training and placement partners
+
+Conversations with recognised training providers and organisations that can
+offer meaningful marine work experience.
+:::
+
+::: {.card .contact-card}
+<div class="card__number">03</div>
+
+### Sponsors and supporters
+
+Opportunities to expand the training, experience and networks available to the
+next generation of ocean leaders.
+:::
+:::
+:::
+:::
+
+::: {.section .section--surface}
+::: {.section__inner .section__inner--narrow}
+[Contact details]{.eyebrow}
+
+<h2 class="section__title">Get in touch</h2>
+
+<p class="section__lead">For questions about eligibility, the application, training and placement partnerships, or supporting the program, reach us at:</p>
+
+<p class="section__lead"><a href="mailto:hello@theupwellingproject.org" class="btn-ocean" style="margin-top:8px">hello@theupwellingproject.org</a></p>
+
+<div class="note"><strong>Website owner:</strong> This is a placeholder address. Replace it with the organisation's approved, monitored inbox before launch.</div>
+:::
+:::
+
+::: {.section .section--deep}
+::: {.section__inner .split}
+::: {}
+[Applications]{.eyebrow}
+
+<h2 class="section__title">Planning to apply?</h2>
+:::
+
+::: {}
+<p class="section__lead">Review the eligibility requirements, application dates and the information you can begin preparing now.</p>
+
+<p style="margin-top: 30px">[Read the application guide](eligibility.qmd){.btn-light}</p>
+:::
+:::
+:::

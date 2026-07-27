@@ -1,0 +1,93 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.page-hero}
+::: {.page-hero__inner}
+[Our 2027 program]{.eyebrow}
+
+# Training plus real-world experience
+
+<p>The inaugural award supports an emerging ocean leader to gain recognised scuba training and put it into practice through a work experience placement.</p>
+:::
+:::
+
+::: {.section}
+::: {.section__inner .split}
+::: {}
+[Scuba training award]{.eyebrow}
+
+<h2 class="section__title">A practical pathway into marine work</h2>
+
+<div class="section__lead">
+The award is designed for a recipient pursuing scientific, professional or
+research diving. It combines funding for training with support for a placement
+after the diver training is complete.
+</div>
+:::
+
+::: {.stat}
+<span class="stat__value">$10,000</span>
+
+<p>AUD total funding envelope for one recipient in 2027.</p>
+:::
+:::
+:::
+
+::: {.section .section--surface}
+::: {.section__inner}
+[What is funded]{.eyebrow}
+
+<h2 class="section__title">One award, two connected steps</h2>
+
+::: {.cards}
+::: {.card}
+<div class="card__number">1</div>
+
+### Recognised training
+
+Up to **$5,000 AUD** to pursue training with a recognised scuba training
+institution.
+:::
+
+::: {.card}
+<div class="card__number">2</div>
+
+### Work experience
+
+Up to **$5,000 AUD** to facilitate a work experience opportunity or placement
+after the diver training.
+:::
+:::
+:::
+:::
+
+::: {.section}
+::: {.section__inner .section__inner--narrow}
+[Why combine them?]{.eyebrow}
+
+<h2 class="section__title">A qualification should open a door</h2>
+
+<p class="section__lead">Training builds capability. Experience helps turn that capability into confidence, connections and a meaningful career pathway. The Upwelling Project funds both so the recipient can take a practical next step.</p>
+
+<ul class="checklist">
+  <li>A recognised scuba qualification aligned with the recipient's goals</li>
+  <li>Hands-on experience in a relevant marine setting</li>
+  <li>Connection to a community of ocean professionals</li>
+  <li>A written reflection that shares learning and helps pay the opportunity forward</li>
+</ul>
+
+<p style="margin-top: 36px">[Check your eligibility](eligibility.qmd){.btn-ocean}</p>
+:::
+:::
+
+::: {.section .section--sand}
+::: {.section__inner .section__inner--narrow}
+[Looking ahead]{.eyebrow}
+
+<h2 class="section__title">Starting focused, building over time</h2>
+
+<p class="section__lead">The Upwelling Project begins with a recurring training and experience award. Our longer-term ambition is to extend support into research, community and development programs across Oceania.</p>
+:::
+:::

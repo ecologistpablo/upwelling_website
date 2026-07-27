@@ -1,0 +1,16 @@
+---
+pagetitle: "Page not found"
+page-layout: full
+---
+
+::: {.section}
+::: {.section__inner .section__inner--narrow}
+[Error 404]{.eyebrow}
+
+<h1 class="section__title">This page has drifted away</h1>
+
+<p class="section__lead">The page you were looking for could not be found.</p>
+
+<p style="margin-top: 32px">[Return home](index.qmd){.btn-ocean}</p>
+:::
+:::

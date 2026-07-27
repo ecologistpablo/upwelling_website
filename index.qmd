@@ -1,0 +1,145 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero__inner}
+<div class="hero__mark" aria-hidden="true">↟</div>
+
+[The Upwelling Project · Oceania]{.eyebrow}
+
+# Backing the next generation of ocean leaders
+
+<p class="hero__lead">We fund the training, experience and opportunities that turn early ambition into lasting ocean careers.</p>
+
+::: {.hero__actions}
+[Explore the 2027 award](what-we-offer.qmd){.btn-light}
+[Eligibility & how to apply](eligibility.qmd){.btn-outline}
+:::
+:::
+:::
+
+::: {.section}
+::: {.section__inner .section__inner--narrow}
+[Why we exist]{.eyebrow}
+
+<h2 class="section__title">A healthy ocean depends on people.</h2>
+
+<div class="section__lead">
+The Upwelling Project invests directly in emerging ocean leaders through
+recognised qualifications, practical experience and a community that helps
+them take the next step.
+
+Our work begins with scientific and professional diving. Over time, we aim to
+support research, community and development programs across our region.
+</div>
+:::
+:::
+
+::: {.section .section--surface}
+::: {.section__inner}
+[Our direction]{.eyebrow}
+
+<h2 class="section__title">Skills, pathways and people</h2>
+
+::: {.cards}
+::: {.card}
+<div class="card__number">01</div>
+
+### Vision
+
+To develop ocean leaders with the skills, experience and pathways to build
+meaningful marine careers.
+:::
+
+::: {.card}
+<div class="card__number">02</div>
+
+### Mission
+
+We open pathways to practical training, recognised qualifications, field
+experience and the networks that help launch marine careers.
+:::
+
+::: {.card}
+<div class="card__number">03</div>
+
+### Our approach
+
+Each award combines formal training with hands-on experience, helping a
+recipient turn a qualification into a practical next step.
+:::
+:::
+:::
+:::
+
+::: {.section .section--sand}
+::: {.section__inner .section__inner--narrow}
+[What guides us]{.eyebrow}
+
+<h2 class="section__title">Values built for lasting impact</h2>
+
+<p class="section__lead">Our decisions, partnerships and programs are grounded in five values.</p>
+
+::: {.values}
+<span class="value">Equity</span>
+<span class="value">Collaboration</span>
+<span class="value">Ocean stewardship</span>
+<span class="value">Paying it forward</span>
+<span class="value">Integrity</span>
+:::
+:::
+:::
+
+::: {.section}
+::: {.section__inner .split}
+::: {}
+[Our story]{.eyebrow}
+
+<h2 class="section__title">A new name for a new chapter</h2>
+:::
+
+::: {}
+<div class="section__lead">
+The Upwelling Project builds on the legacy of the Our World Underwater
+Scholarship Society in Australasia.
+
+We are proud of that history and remain connected to the wider OWUSS
+community, which continues its work internationally.
+</div>
+
+<p style="margin-top: 30px">[See what we offer](what-we-offer.qmd){.btn-ocean}</p>
+:::
+:::
+:::
+
+::: {.section .section--deep}
+::: {.section__inner}
+[The organisation]{.eyebrow}
+
+<h2 class="section__title">Governed by ocean people</h2>
+
+<p class="section__lead">The organisation is governed by its board of directors and supported by an advisory panel.</p>
+
+::: {.people}
+::: {.people__group}
+### Charity directors
+
+[name removed]  
+[name removed]  
+[name removed]
+:::
+
+::: {.people__group}
+### Advisory panel
+
+[name removed]  
+[name removed]  
+[name removed]  
+[name removed]  
+[name removed]
+:::
+:::
+:::
+:::

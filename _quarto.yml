@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - what-we-offer.qmd
+    - eligibility.qmd
+    - application.qmd
+    - contact.qmd
+    - 404.qmd
+
+website:
+  title: "The Upwelling Project"
+  favicon: favicon.svg
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: what-we-offer.qmd
+        text: What we offer
+      - href: eligibility.qmd
+        text: Eligibility & how to apply
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    border: false
+    left: "The Upwelling Project"
+    right: "Backing the next generation of ocean leaders in Oceania"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap">

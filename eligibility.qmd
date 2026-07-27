@@ -1,0 +1,136 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.page-hero}
+::: {.page-hero__inner}
+[Eligibility & how to apply]{.eyebrow}
+
+# Your next step starts here
+
+<p>Applications for the 2027 scuba training award are planned to open on 1 November 2026.</p>
+:::
+:::
+
+::: {.section}
+::: {.section__inner .split}
+::: {}
+[Who can apply]{.eyebrow}
+
+<h2 class="section__title">Core eligibility</h2>
+
+<p class="section__lead">The award is intended for an emerging ocean leader seeking a pathway into scientific, professional or research diving.</p>
+:::
+
+::: {}
+<ul class="checklist">
+  <li>You are an Australian citizen.</li>
+  <li>You are an Early Career Ocean Professional (ECOP) — see definition below.</li>
+  <li>Your proposed training is with a recognised scuba training institution.</li>
+  <li>You can explain how the training and experience will support your career direction.</li>
+</ul>
+
+<div class="note"><strong>How we define “early-career”:</strong> We use the definition adopted by the UN Ocean Decade's ECOP Programme — anyone who self-identifies as being early in their career, with <strong>10 years or less of professional experience</strong> in any field related to the ocean. This includes post-secondary students and volunteer roles, not only paid positions, so people from any sector can apply.<br><br>Source: Vozzo et al. (2025), <em>Advancing ocean sustainability through better science integration: perspectives of Early Career Ocean Professionals</em>, Frontiers in Ocean Sustainability 2:1526776. <a href="https://doi.org/10.3389/focsu.2024.1526776" target="_blank" rel="noopener">doi.org/10.3389/focsu.2024.1526776</a></div>
+:::
+:::
+:::
+
+::: {.section .section--surface}
+::: {.section__inner}
+[Application timeline]{.eyebrow}
+
+<h2 class="section__title">Dates for the 2027 award</h2>
+
+::: {.timeline}
+::: {.timeline__item}
+<div class="timeline__date">1 November 2026</div>
+
+::: {}
+### Applications open
+
+Application instructions and the submission link will be available on this page.
+:::
+:::
+
+::: {.timeline__item}
+<div class="timeline__date">20 December 2026</div>
+
+::: {}
+### Applications close
+
+Complete applications must be received by the published closing time.
+:::
+:::
+
+::: {.timeline__item}
+<div class="timeline__date">By 31 January 2027</div>
+
+::: {}
+### Shortlist notification
+
+Shortlisted candidates will be contacted by the end of January.
+:::
+:::
+:::
+:::
+:::
+
+::: {.section}
+::: {.section__inner .section__inner--narrow}
+[Prepare your application]{.eyebrow}
+
+<h2 class="section__title">Tell us what, where and why</h2>
+
+<p class="section__lead">Full instructions are still being finalised. Based on the planned application, you should be ready to provide:</p>
+
+::: {.cards}
+::: {.card}
+<div class="card__number">01</div>
+
+### Your plan
+
+Describe the training and experience you want to pursue, where they would take
+place and why they are the right next step.
+:::
+
+::: {.card}
+<div class="card__number">02</div>
+
+### A detailed budget
+
+Show how you would use the training and placement funding within the
+**$10,000 AUD** total envelope.
+:::
+
+::: {.card}
+<div class="card__number">03</div>
+
+### Two references
+
+Nominate two people who can speak to your potential, readiness and career
+direction.
+:::
+:::
+
+<div class="note"><strong>Not yet accepting applications.</strong> The application form and final instructions will be published here before 1 November 2026.</div>
+
+<p style="margin-top: 30px">[Preview the application form](application.qmd){.btn-ocean}</p>
+:::
+:::
+
+::: {.section .section--deep}
+::: {.section__inner .split}
+::: {}
+[Recipient commitment]{.eyebrow}
+
+<h2 class="section__title">Share what you learn</h2>
+:::
+
+::: {}
+<p class="section__lead">The successful recipient will provide a written reflection after the award. This helps the community learn from the experience and supports our value of paying it forward.</p>
+
+<p style="margin-top: 30px">[Ask a question](contact.qmd){.btn-light}</p>
+:::
+:::
+:::

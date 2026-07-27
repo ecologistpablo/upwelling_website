@@ -1,0 +1,30 @@
+---
+description: Karpathy-style coding discipline + the 10 R Commandments this repo follows.
+globs: ["*.R", "*.r", "*.Rmd", "*.qmd"]
+alwaysApply: true
+---
+
+# Karpathy guidelines (how we work in this repo)
+
+Andrej Karpathy's working style, applied to this R pipeline:
+
+- **Understand before you type.** Read the task and the code it touches, trace the real data flow end to end. A small diff you don't understand is not a fix.
+- **Build incrementally, verify each step.** Change one thing, run it, look at the actual output (`print`, `summary`, a plot) before moving on. Don't write 200 lines then hope.
+- **Be suspicious of your own code.** Assume it's buggy until a check proves otherwise. Sanity-check shapes, counts, NA fractions, units, CRS.
+- **Look at your data.** Plot it, tabulate it, eyeball a few rows. Most "model" bugs are data bugs.
+- **Keep it simple and readable.** Boring over clever. The next reader is future-you with no memory of today.
+
+# The 10 R Commandments (source: Alice Pidd, Kick-starteRs)
+
+This repo is built on these. The code cites them by number — keep them true.
+
+1. **Use R Projects.** No `setwd()` anywhere; every path hangs off `here()` + `config.R`. Restart R instead of `rm(list = ls())`.
+2. **Write a README, update it as you go.** It doubles as the methods section.
+3. **A `Helpers.R`-style base.** `scripts/00_setup.R` loads packages (via `pacman`) and sources `R/`; every script starts by sourcing it.
+4. **Number your scripts.** `NN_verb_noun.R`, sequential, one purpose each.
+5. **Save outputs as `.rds`.** Each step writes its `.rds` to `outputs/` (git-ignored).
+6. **Short (<100 lines), single-purpose, standalone scripts.** Any script runs after `00_setup.R` by reading the prior `.rds`. `0_run_all.R` is the "do it" script.
+7. **Annotate.** Leave breadcrumbs: comment the *why*, not the obvious *what*.
+8. **Functions are your friend.** Same logic on 3+ things → a function in `R/`.
+9. **Work in parallel.** `furrr` + `future` for repetitive per-tag work; leave a core free.
+10. **Use GitHub.** Commit in small, legible steps; the repo is the backup and the record.

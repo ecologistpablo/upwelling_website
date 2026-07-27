@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+
+# Quarto output
+/_site/
+/.quarto/
+
+# Local system files
+.DS_Store
+Thumbs.db
+**/*.quarto_ipynb
