@@ -166,21 +166,17 @@ community, which continues its work internationally.
 
 ::: {.people}
 ::: {.people__group}
-### Charity directors
+### Board of directors
 
-[name removed]  
-[name removed]  
-[name removed]
+A volunteer board of registered charity directors, responsible for governance,
+funding decisions and the direction of the program.
 :::
 
 ::: {.people__group}
 ### Advisory panel
 
-[name removed]  
-[name removed]  
-[name removed]  
-[name removed]  
-[name removed]
+Marine scientists, dive professionals and educators who advise on program
+design, training pathways and the selection of each year's recipient.
 :::
 :::
 :::

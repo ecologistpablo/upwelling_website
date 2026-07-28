@@ -10,9 +10,11 @@ project:
     - 404.qmd
   resources:
     - images/  # background photos referenced via inline-style url() aren't auto-detected
+    - CNAME    # keeps the custom domain set when Actions republishes the site
 
 website:
   title: "The Upwelling Project"
+  site-url: https://upwellingproject.org
   favicon: favicon.svg
   navbar:
     pinned: true
