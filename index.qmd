@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {.hero .hero--photo style="background-image:url(images/home-hero.jpg)"}
 ::: {.hero__inner}
-<div class="hero__mark" aria-hidden="true">↟</div>
+<div class="hero__mark" aria-hidden="true"><img src="logo.svg" alt=""></div>
 
 [The Upwelling Project · Oceania]{.eyebrow}
 
@@ -38,9 +38,6 @@ support research, community and development programs across our region.
 :::
 
 ::: {.photo-section style="background-image:url(images/home-photo-band.jpg)"}
-::: {.photo-section__caption}
-<span>The waters our recipients are training to protect</span>
-:::
 :::
 
 ::: {.section .section--surface}
@@ -73,44 +70,9 @@ experience and the networks that help launch marine careers.
 
 ### Our approach
 
-Each award combines formal training with hands-on experience, helping a
-recipient turn a qualification into a practical next step.
-:::
-:::
-:::
-:::
-
-::: {.section}
-::: {.section__inner}
-[The ocean we're working for]{.eyebrow}
-
-<h2 class="section__title">This is what a healthy ocean looks like</h2>
-
-<p class="section__lead">The species and ecosystems our recipients train alongside — and the reason this work matters.</p>
-
-::: {.cards}
-::: {.card-photo style="background-image:url(images/gallery-hammerheads.jpg)"}
-::: {.card-photo__body}
-### Schooling hammerheads
-
-Apex predators that signal a thriving reef ecosystem.
-:::
-:::
-
-::: {.card-photo style="background-image:url(images/gallery-anemonefish.jpg)"}
-::: {.card-photo__body}
-### Anemonefish
-
-Small reef species whose survival depends on healthy coral habitat.
-:::
-:::
-
-::: {.card-photo style="background-image:url(images/gallery-octopus.jpg)"}
-::: {.card-photo__body}
-### Reef octopus
-
-A reminder of the biodiversity our recipients learn to study and protect.
-:::
+Each award provides funding directly to the recipient — for a recognised
+qualification and a placement or field experience they choose — so they can
+shape their own pathway with a suitable plan at the time of selection.
 :::
 :::
 :::
@@ -137,47 +99,29 @@ A reminder of the biodiversity our recipients learn to study and protect.
 ::: {.section}
 ::: {.section__inner .split}
 ::: {}
-[Our story]{.eyebrow}
+[Who we are]{.eyebrow}
 
-<h2 class="section__title">A new name for a new chapter</h2>
+<h2 class="section__title">From the Australasian arm of OWUSS</h2>
 :::
 
 ::: {}
 <div class="section__lead">
-The Upwelling Project builds on the legacy of the Our World Underwater
-Scholarship Society in Australasia.
+The Upwelling Project grows out of the [Our World-Underwater Scholarship
+Society](https://www.owuscholarship.org/) Australasian arm — a volunteer-run
+program that has fostered emerging leaders in the underwater world since 1974.
 
-We are proud of that history and remain connected to the wider OWUSS
-community, which continues its work internationally.
+For decades, Australasian scholars documented their journeys on
+[OWUSS Australasia](https://owussaustralasia.org/), sharing training, field
+work and career pathways with the community. Some of those alumni are now
+helping shape The Upwelling Project as we write a new chapter for the region:
+direct funding, recipient-led plans, and a continued commitment to practical
+pathways into marine work.
+
+We remain connected to the wider OWUSS community, which continues its work
+internationally.
 </div>
 
 <p style="margin-top: 30px">[See what we offer](what-we-offer.qmd){.btn-ocean}</p>
-:::
-:::
-:::
-
-::: {.section .section--deep}
-::: {.section__inner}
-[The organisation]{.eyebrow}
-
-<h2 class="section__title">Governed by ocean people</h2>
-
-<p class="section__lead">The organisation is governed by its board of directors and supported by an advisory panel.</p>
-
-::: {.people}
-::: {.people__group}
-### Board of directors
-
-A volunteer board of registered charity directors, responsible for governance,
-funding decisions and the direction of the program.
-:::
-
-::: {.people__group}
-### Advisory panel
-
-Marine scientists, dive professionals and educators who advise on program
-design, training pathways and the selection of each year's recipient.
-:::
 :::
 :::
 :::

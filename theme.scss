@@ -103,12 +103,15 @@ main.content { margin: 0; padding: 0; max-width: none; }
   width: 74px;
   height: 74px;
   margin-bottom: 36px;
-  border: 1px solid rgba(255, 255, 255, .35);
-  border-radius: 50%;
-  display: grid;
-  place-items: center;
-  font-size: 2rem;
-  background: rgba(255, 255, 255, .1);
+  img, svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+}
+.navbar-logo img {
+  height: 34px;
+  width: auto;
 }
 .hero h1 {
   max-width: 880px;
@@ -235,8 +238,8 @@ main.content { margin: 0; padding: 0; max-width: none; }
 .page-hero--photo p { color: rgba(255, 255, 255, .84); }
 .page-hero--photo .eyebrow { color: rgba(255, 255, 255, .72); }
 
-// Full-bleed photo band with a caption — the reusable "drop a photo here"
-// pattern. Set the image inline: style="background-image:url(images/your-photo.jpg)"
+// Full-bleed photo band — set the image inline:
+// style="background-image:url(images/your-photo.jpg)"
 .photo-section {
   position: relative;
   width: 100vw;
@@ -244,21 +247,6 @@ main.content { margin: 0; padding: 0; max-width: none; }
   min-height: 52vh;
   background-size: cover;
   background-position: center;
-  display: flex;
-  align-items: flex-end;
-}
-.photo-section__caption {
-  width: 100%;
-  padding: 26px 24px;
-  background: linear-gradient(transparent, rgba(4, 38, 46, .72));
-  color: #fff;
-}
-.photo-section__caption span {
-  display: block;
-  max-width: 1160px;
-  margin: 0 auto;
-  font-size: 14px;
-  letter-spacing: .04em;
 }
 
 // Photo gallery tiles — reuse the .cards grid, swap .card for .card-photo.

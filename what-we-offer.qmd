@@ -9,7 +9,7 @@ page-layout: full
 
 # Training plus real-world experience
 
-<p>The inaugural award supports an emerging ocean leader to gain recognised scuba training and put it into practice through a work experience placement.</p>
+<p>The inaugural award provides funding directly to an emerging ocean leader — $5,000 toward a recognised training qualification and $5,000 toward a placement or field experience of their choosing.</p>
 :::
 :::
 
@@ -22,8 +22,9 @@ page-layout: full
 
 <div class="section__lead">
 The award is designed for a recipient pursuing scientific, professional or
-research diving. It combines funding for training with support for a placement
-after the diver training is complete.
+research diving. Rather than arranging training and placements on their behalf,
+we award the funding directly — giving recipients more flexibility and keeping
+things simple, at least for the beginning.
 </div>
 :::
 
@@ -39,7 +40,7 @@ after the diver training is complete.
 ::: {.section__inner}
 [What is funded]{.eyebrow}
 
-<h2 class="section__title">One award, two connected steps</h2>
+<h2 class="section__title">One award, two parts — your plan</h2>
 
 ::: {.cards}
 ::: {.card}
@@ -47,17 +48,18 @@ after the diver training is complete.
 
 ### Recognised training
 
-Up to **$5,000 AUD** to pursue training with a recognised scuba training
-institution.
+**$5,000 AUD** awarded directly toward a recognised scuba training
+qualification of the recipient's choosing.
 :::
 
 ::: {.card}
 <div class="card__number">2</div>
 
-### Work experience
+### Placement or field experience
 
-Up to **$5,000 AUD** to facilitate a work experience opportunity or placement
-after the diver training.
+**$5,000 AUD** awarded directly toward a placement or field experience of the
+recipient's choosing — provided they have a suitable plan at the time of
+selection.
 :::
 :::
 :::
@@ -65,11 +67,11 @@ after the diver training.
 
 ::: {.section}
 ::: {.section__inner .section__inner--narrow}
-[Why combine them?]{.eyebrow}
+[Why fund both?]{.eyebrow}
 
 <h2 class="section__title">A qualification should open a door</h2>
 
-<p class="section__lead">Training builds capability. Experience helps turn that capability into confidence, connections and a meaningful career pathway. The Upwelling Project funds both so the recipient can take a practical next step.</p>
+<p class="section__lead">Training builds capability. Experience helps turn that capability into confidence, connections and a meaningful career pathway. We fund both parts directly so the recipient can pursue the training and field experience that fit their goals — without us arranging placements on their behalf.</p>
 
 <ul class="checklist">
   <li>A recognised scuba qualification aligned with the recipient's goals</li>
@@ -83,9 +85,6 @@ after the diver training.
 :::
 
 ::: {.photo-section style="background-image:url(images/offer-photo-band.jpg)"}
-::: {.photo-section__caption}
-<span>A whale shark — one of the many reasons recipients train for a career in the ocean</span>
-:::
 :::
 
 ::: {.section .section--sand}

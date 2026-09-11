@@ -9,31 +9,31 @@ page-layout: full
 
 # 2027 scuba training award
 
-<p>This is a mock-up of the application form so you can see what to prepare. It is not yet live — submissions open 1 November 2026.</p>
+<p>This is a preview of the application form so you can see what to prepare. Fields are interactive, but nothing is submitted yet — the live application opens 1 November 2026.</p>
 :::
 :::
 
 ::: {.section}
 ::: {.section__inner .section__inner--narrow}
-<div class="note"><strong>Preview only.</strong> This form does not submit anywhere yet. The live application will open on <strong>1 November 2026</strong> and close <strong>20 December 2026</strong>.</div>
+<div class="note"><strong>Preview only.</strong> You can fill in the fields below to test the layout, but submissions are not sent anywhere yet. The live application will open on <strong>1 November 2026</strong> and close <strong>20 December 2026</strong>.</div>
 
 ```{=html}
-<form class="mock-form" onsubmit="return false;">
+<form class="mock-form" onsubmit="alert('Preview only — this form does not submit anywhere yet. The live application opens 1 November 2026.'); return false;">
 
   <fieldset>
     <legend>1. Your details</legend>
 
     <label for="full-name">Full name</label>
-    <input type="text" id="full-name" name="full-name" placeholder="Jordan Reef" disabled>
+    <input type="text" id="full-name" name="full-name" placeholder="Jordan Reef">
 
     <label for="email">Email address</label>
-    <input type="email" id="email" name="email" placeholder="you@example.com" disabled>
+    <input type="email" id="email" name="email" placeholder="you@example.com">
 
     <label for="location">City / region</label>
-    <input type="text" id="location" name="location" placeholder="Cairns, QLD" disabled>
+    <input type="text" id="location" name="location" placeholder="Cairns, QLD">
 
     <label for="citizenship">Are you an Australian citizen?</label>
-    <select id="citizenship" name="citizenship" disabled>
+    <select id="citizenship" name="citizenship">
       <option>Yes</option>
       <option>No</option>
     </select>
@@ -43,10 +43,10 @@ page-layout: full
     <legend>2. Eligibility (ECOP)</legend>
 
     <label for="experience">Years of professional experience in an ocean-related field</label>
-    <input type="number" id="experience" name="experience" placeholder="e.g. 3" min="0" max="10" disabled>
+    <input type="number" id="experience" name="experience" placeholder="e.g. 3" min="0" max="10">
 
     <label for="sector">Current sector</label>
-    <select id="sector" name="sector" disabled>
+    <select id="sector" name="sector">
       <option>Student</option>
       <option>Volunteer</option>
       <option>Academia / research</option>
@@ -60,52 +60,52 @@ page-layout: full
   <fieldset>
     <legend>3. Your plan — what, where, why</legend>
 
-    <label for="training-provider">Proposed scuba training institution</label>
-    <input type="text" id="training-provider" name="training-provider" placeholder="e.g. a recognised scientific diving course provider" disabled>
+    <label for="training-provider">Proposed training qualification</label>
+    <input type="text" id="training-provider" name="training-provider" placeholder="e.g. a recognised scientific diving course or qualification">
 
-    <label for="plan">Describe your training and experience plan</label>
-    <textarea id="plan" name="plan" rows="4" placeholder="What training will you pursue, where, and why is it the right next step for you?" disabled></textarea>
+    <label for="plan">Describe your training and field experience plan</label>
+    <textarea id="plan" name="plan" rows="4" placeholder="What recognised qualification will you pursue, and what placement or field experience do you plan — where, and why are these the right next steps for you?" ></textarea>
 
     <label for="career-goal">How does this support your career direction?</label>
-    <textarea id="career-goal" name="career-goal" rows="3" disabled></textarea>
+    <textarea id="career-goal" name="career-goal" rows="3"></textarea>
   </fieldset>
 
   <fieldset>
     <legend>4. Detailed budget</legend>
 
-    <label for="training-cost">Training costs (up to $5,000 AUD)</label>
-    <input type="text" id="training-cost" name="training-cost" placeholder="$" disabled>
+    <label for="training-cost">Training qualification ($5,000 AUD)</label>
+    <input type="text" id="training-cost" name="training-cost" placeholder="$">
 
-    <label for="placement-cost">Placement / work experience costs (up to $5,000 AUD)</label>
-    <input type="text" id="placement-cost" name="placement-cost" placeholder="$" disabled>
+    <label for="placement-cost">Placement or field experience ($5,000 AUD)</label>
+    <input type="text" id="placement-cost" name="placement-cost" placeholder="$">
 
     <label for="budget-notes">Budget notes</label>
-    <textarea id="budget-notes" name="budget-notes" rows="3" placeholder="Break down how the $10,000 AUD total would be used." disabled></textarea>
+    <textarea id="budget-notes" name="budget-notes" rows="3" placeholder="Break down how you would use the $5,000 training and $5,000 placement or field experience funding."></textarea>
   </fieldset>
 
   <fieldset>
     <legend>5. References</legend>
 
     <label for="ref1-name">Reference 1 — name and role</label>
-    <input type="text" id="ref1-name" name="ref1-name" disabled>
+    <input type="text" id="ref1-name" name="ref1-name">
     <label for="ref1-contact">Reference 1 — email or phone</label>
-    <input type="text" id="ref1-contact" name="ref1-contact" disabled>
+    <input type="text" id="ref1-contact" name="ref1-contact">
 
     <label for="ref2-name">Reference 2 — name and role</label>
-    <input type="text" id="ref2-name" name="ref2-name" disabled>
+    <input type="text" id="ref2-name" name="ref2-name">
     <label for="ref2-contact">Reference 2 — email or phone</label>
-    <input type="text" id="ref2-contact" name="ref2-contact" disabled>
+    <input type="text" id="ref2-contact" name="ref2-contact">
   </fieldset>
 
   <fieldset>
     <legend>6. Declaration</legend>
     <label class="mock-checkbox">
-      <input type="checkbox" disabled>
+      <input type="checkbox">
       I agree to provide a written reflection if selected as the recipient.
     </label>
   </fieldset>
 
-  <button type="submit" class="btn-ocean" disabled>Submit application (opens 1 Nov 2026)</button>
+  <button type="submit" class="btn-ocean">Test submit (preview only)</button>
 </form>
 ```
 :::

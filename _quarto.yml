@@ -17,6 +17,8 @@ website:
   site-url: https://upwellingproject.org
   favicon: favicon.svg
   navbar:
+    logo: logo.svg
+    logo-alt: "The Upwelling Project"
     pinned: true
     left:
       - href: index.qmd
