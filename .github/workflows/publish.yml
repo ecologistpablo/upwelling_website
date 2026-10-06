@@ -9,6 +9,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read
 
 concurrency:
   group: pages
@@ -19,8 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Set up Pages
+        uses: actions/configure-pages@v4
       - uses: quarto-dev/quarto-actions/setup@v2
       - run: quarto render
+      - name: Add .nojekyll for GitHub Pages
+        run: touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
@@ -28,9 +33,13 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
