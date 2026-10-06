@@ -1,0 +1,56 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.page-hero}
+::: {.page-hero__inner}
+[Privacy]{.eyebrow}
+
+# How we use this website
+
+<p>This page explains how The Upwelling Project website handles analytics and cookies.</p>
+:::
+:::
+
+::: {.section}
+::: {.section__inner .section__inner--narrow}
+[Analytics]{.eyebrow}
+
+<h2 class="section__title">Google Analytics</h2>
+
+<p class="section__lead">We use <a href="https://analytics.google.com/" target="_blank" rel="noopener">Google Analytics 4</a> to understand how people find and use this site — for example, which pages are viewed, roughly where visitors are located, and what devices they use.</p>
+
+<p class="section__lead">That helps us improve the information we publish about the award and the application process. We do not use analytics to identify you personally or to build advertising profiles.</p>
+
+<ul class="checklist">
+  <li>Data is collected in aggregate form (general traffic patterns, not individual tracking for marketing).</li>
+  <li>IP addresses are anonymised before they are stored in Google Analytics.</li>
+  <li>Analytics cookies are only set if you accept cookies in the banner on this site.</li>
+</ul>
+:::
+:::
+
+::: {.section .section--surface}
+::: {.section__inner .section__inner--narrow}
+[Cookies]{.eyebrow}
+
+<h2 class="section__title">Cookie consent</h2>
+
+<p class="section__lead">When you first visit, you can accept or decline optional cookies used for analytics. You can change your choice at any time using <strong>Cookie preferences</strong> in the banner or site footer area.</p>
+
+<p class="section__lead">If you decline, Google Analytics will not use cookies on your device. Analytics cookies are not used unless you accept.</p>
+:::
+:::
+
+::: {.section}
+::: {.section__inner .section__inner--narrow}
+[Questions]{.eyebrow}
+
+<h2 class="section__title">Contact</h2>
+
+<p class="section__lead">If you have questions about privacy and this website, email us at <a href="mailto:hello@theupwellingproject.org">hello@theupwellingproject.org</a>.</p>
+
+<p style="margin-top: 30px">[Back to home](index.qmd){.btn-ocean}</p>
+:::
+:::

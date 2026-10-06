@@ -7,14 +7,24 @@ project:
     - eligibility.qmd
     - application.qmd
     - contact.qmd
+    - privacy.qmd
     - 404.qmd
   resources:
     - images/  # background photos referenced via inline-style url() aren't auto-detected
+    - logo.svg
     - CNAME    # keeps the custom domain set when Actions republishes the site
 
 website:
   title: "The Upwelling Project"
   site-url: https://upwellingproject.org
+  google-analytics:
+    tracking-id: "G-3CN2T57C1X"
+    anonymize-ip: true
+  cookie-consent:
+    type: express
+    style: simple
+    palette: light
+    policy-url: privacy.qmd
   favicon: favicon.svg
   navbar:
     logo: logo.svg
@@ -31,8 +41,6 @@ website:
         text: Contact
   page-footer:
     border: false
-    left: "The Upwelling Project"
-    right: "Backing the next generation of ocean leaders in Oceania"
 
 format:
   html:
@@ -40,6 +48,7 @@ format:
     toc: false
     anchor-sections: false
     smooth-scroll: true
+    include-after-body: footer.html
     include-in-header:
       text: |
         <link rel="preconnect" href="https://fonts.googleapis.com">

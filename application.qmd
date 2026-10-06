@@ -32,10 +32,17 @@ page-layout: full
     <label for="location">City / region</label>
     <input type="text" id="location" name="location" placeholder="Cairns, QLD">
 
-    <label for="citizenship">Are you an Australian citizen?</label>
-    <select id="citizenship" name="citizenship">
-      <option>Yes</option>
-      <option>No</option>
+    <label for="residency">Citizenship or permanent residence</label>
+    <select id="residency" name="residency">
+      <option>Australia</option>
+      <option>New Zealand</option>
+      <option>Fiji</option>
+      <option>Samoa</option>
+      <option>Tonga</option>
+      <option>Vanuatu</option>
+      <option>Papua New Guinea</option>
+      <option>Palau</option>
+      <option>New Caledonia</option>
     </select>
   </fieldset>
 

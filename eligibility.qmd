@@ -25,7 +25,7 @@ page-layout: full
 
 ::: {}
 <ul class="checklist">
-  <li>You are an Australian citizen.</li>
+  <li>You hold citizenship or permanent residence in Australia, New Zealand, or an eligible Pacific nation in Oceania: Fiji, Samoa, Tonga, Vanuatu, Papua New Guinea, Palau, or New Caledonia.</li>
   <li>You are an Early Career Ocean Professional (ECOP) — see definition below.</li>
   <li>Your proposed training is with a recognised scuba training institution.</li>
   <li>You have a suitable plan for both the training qualification and a placement or field experience at the time of selection.</li>
