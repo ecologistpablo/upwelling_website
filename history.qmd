@@ -3,7 +3,7 @@ title: ""
 page-layout: full
 ---
 
-::: {.page-hero}
+::: {.page-hero .page-hero--photo style="background-image:url(images/gallery-hammerheads.jpg)"}
 ::: {.page-hero__inner}
 [History & heritage]{.eyebrow}
 
@@ -62,9 +62,9 @@ The model was built on trust, curiosity and extraordinary generosity from partne
 <h2 class="section__title">The Upwelling Project</h2>
 
 <div class="section__lead">
-The Upwelling Project is now **managed and run by various previous Rolex and OWUSS scholars** who lived that experience — and who want to **give back to the community** and **empower others** with similar opportunities across Oceania.
+The Upwelling Project is now managed and run by various previous Rolex and OWUSS scholars who lived that experience — and who want to give back to the community and empower others with similar opportunities across Oceania.
 
-We are writing a new chapter: **direct funding**, **recipient-led plans**, and a continued focus on practical pathways into marine work — while honouring the people and organisations who made the OWUSS story possible.
+We are writing a new chapter: direct funding, recipient-led plans, and a continued focus on practical pathways into marine work — while honouring the people and organisations who made the OWUSS story possible.
 </div>
 :::
 :::
@@ -89,7 +89,7 @@ We are writing a new chapter: **direct funding**, **recipient-led plans**, and a
 
 <p class="section__lead">The Australasian OWUSS program benefited from extraordinary generosity across the dive industry, research community and expedition world. We are deeply grateful to every organisation and individual who contributed time, equipment, training, travel and expertise.</p>
 
-<p class="section__lead">The Upwelling Project hopes to build the future <strong>with</strong> these partners again — and alongside new sponsors who share our commitment to ocean people and practical marine careers.</p>
+<p class="section__lead">The Upwelling Project hopes to build the future with these partners again — and alongside new sponsors who share our commitment to ocean people and practical marine careers.</p>
 
 ```{=html}
 <div class="sponsors-grid">

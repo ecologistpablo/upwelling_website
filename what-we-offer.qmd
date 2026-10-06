@@ -3,7 +3,7 @@ title: ""
 page-layout: full
 ---
 
-::: {.page-hero}
+::: {.page-hero .page-hero--photo style="background-image:url(images/offer-photo-band.jpg)"}
 ::: {.page-hero__inner}
 [Our 2027 program]{.eyebrow}
 
@@ -84,7 +84,7 @@ selection.
 :::
 :::
 
-::: {.photo-section style="background-image:url(images/offer-photo-band.jpg)"}
+::: {.photo-section style="background-image:url(images/gallery-anemonefish.jpg)"}
 :::
 
 ::: {.section .section--sand}
