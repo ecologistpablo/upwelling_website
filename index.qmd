@@ -107,18 +107,17 @@ shape their own pathway with a suitable plan at the time of selection.
 ::: {}
 <div class="section__lead">
 The Upwelling Project grows out of the [Our World-Underwater Scholarship
-Society](https://www.owuscholarship.org/) Australasian arm — a volunteer-run
-program that has fostered emerging leaders in the underwater world since 1974.
+Society (OWUSS)](https://www.owuscholarship.org/) — founded internationally in
+1974 — and the Australasian program that took shape in the early 2010s under
+Jayne Jenkins.
 
-For decades, Australasian scholars documented their journeys on
-[OWUSS Australasia](https://owussaustralasia.org/), sharing training, field
-work and career pathways with the community. Some of those alumni are now
-helping shape The Upwelling Project as we write a new chapter for the region:
-direct funding, recipient-led plans, and a continued commitment to practical
-pathways into marine work.
+Past Australasian scholars documented their journeys on
+[OWUSS Australasia](https://owussaustralasia.org/). Alumni of the former Rolex
+Scholar program — including many from our region — now help run The Upwelling
+Project: paying forward the generosity of a year of sponsored training, travel
+and networks with direct funding and recipient-led plans for Oceania.
 
-We remain connected to the wider OWUSS community, which continues its work
-internationally.
+Read the full story on our [History](history.qmd) page.
 </div>
 
 <p style="margin-top: 30px">[See what we offer](what-we-offer.qmd){.btn-ocean}</p>

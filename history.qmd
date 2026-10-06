@@ -14,17 +14,57 @@ page-layout: full
 :::
 
 ::: {.section}
-::: {.section__inner .section__inner--narrow}
-[Our World-Underwater Scholarship Society]{.eyebrow}
+::: {.section__inner}
+```{=html}
+<div class="heritage-intro">
+  <div class="heritage-intro__copy">
+    <span class="eyebrow">Our World-Underwater Scholarship Society</span>
+    <h2 class="section__title">A legacy of underwater leadership</h2>
+    <div class="section__lead">
+      <p>The <a href="https://www.owuscholarship.org/">Our World-Underwater Scholarship Society (OWUSS)</a> was founded in <strong>1974</strong> to foster the next generation of leaders in aquatic and marine fields through experience-based scholarships and internships.</p>
+      <p>The <strong>Australian arm</strong> of OWUSS was born in the <strong>early 2010s</strong>, led by <strong>Jayne Jenkins</strong>. It connected emerging talent across Oceania with training, field work, mentors and sponsors. For many years, Australasian scholars shared that journey publicly on <a href="https://owussaustralasia.org/">OWUSS Australasia</a>, building a rich archive of blogs and reflections from the region.</p>
+      <p>That regional program <strong>lasted until 2024</strong>, when Rolex ended its support — the <strong>longest continuous funding (50 years)</strong> Rolex had ever provided to a single scholarship or program in its history.</p>
+    </div>
+  </div>
+  <div class="heritage-logos heritage-logos--prominent" aria-label="OWUSS and Rolex">
+    <a class="heritage-logos__item" href="https://www.owuscholarship.org/" target="_blank" rel="noopener">
+      <img src="images/history/owuss-logo.png" alt="Our World-Underwater Scholarship Society">
+    </a>
+    <a class="heritage-logos__item" href="https://www.rolex.org/" target="_blank" rel="noopener">
+      <img src="images/history/rolex-logo.svg" alt="Rolex">
+    </a>
+  </div>
+</div>
+```
+:::
+:::
 
-<h2 class="section__title">A legacy of underwater leadership</h2>
+::: {.section .section--surface}
+::: {.section__inner .section__inner--narrow}
+[The Rolex Scholar]{.eyebrow}
+
+<h2 class="section__title">A year to travel in your field</h2>
 
 <div class="section__lead">
-The [Our World-Underwater Scholarship Society (OWUSS)](https://www.owuscholarship.org/) was founded in 1974 to foster the next generation of leaders in aquatic and marine fields through experience-based scholarships and internships.
+Internationally, the experience was known as the **Rolex Scholar**. Each scholar received sponsored equipment, networks and funds for a **year-long period to travel in their field** — and an **engraved Rolex Submariner** on top of that support.
 
-The Australasian arm of OWUSS has long supported emerging talent across Oceania — connecting scholars with training, field work, mentors and sponsors. For many years, Australasian scholars shared that journey publicly on [OWUSS Australasia](https://owussaustralasia.org/), building a rich archive of blogs and reflections from the region.
+Typical pathways included **marine science lab exchanges**; **scuba diving qualifications** with any certification agency; **internships** with photographers, videographers, expedition companies and leaders in marine science; **maritime training** (national and international courses); and many other placements shaped around each scholar’s goals.
 
-The Upwelling Project grows directly from that heritage. We are writing a new chapter for Oceania: direct funding, recipient-led plans, and a continued focus on practical pathways into marine work — while honouring the people and organisations who made the OWUSS story possible.
+The model was built on trust, curiosity and extraordinary generosity from partners across the underwater world.
+</div>
+:::
+:::
+
+::: {.section}
+::: {.section__inner .section__inner--narrow}
+[Today]{.eyebrow}
+
+<h2 class="section__title">The Upwelling Project</h2>
+
+<div class="section__lead">
+The Upwelling Project is now **managed and run by various previous Rolex and OWUSS scholars** who lived that experience — and who want to **give back to the community** and **empower others** with similar opportunities across Oceania.
+
+We are writing a new chapter: **direct funding**, **recipient-led plans**, and a continued focus on practical pathways into marine work — while honouring the people and organisations who made the OWUSS story possible.
 </div>
 :::
 :::
@@ -35,22 +75,9 @@ The Upwelling Project grows directly from that heritage. We are writing a new ch
 
 <h2 class="section__title">OWUSS &amp; Rolex</h2>
 
-<p class="section__lead">The Our World-Underwater Scholarship Society is closely associated with long-standing support from Rolex, whose commitment to exploration and excellence has helped sustain the Society’s mission internationally.</p>
+<p class="section__lead">For five decades, Rolex’s partnership with OWUSS defined the Rolex Scholar experience worldwide — including the Australasian program — until that continuous support concluded in 2024. We remain grateful for a legacy of exploration, excellence and investment in underwater leadership.</p>
 
-```{=html}
-<div class="heritage-logos">
-  <a class="heritage-logos__item" href="https://www.owuscholarship.org/" target="_blank" rel="noopener">
-    <img src="images/history/owuss-logo.png" alt="Our World-Underwater Scholarship Society">
-    <span>owuscholarship.org</span>
-  </a>
-  <a class="heritage-logos__item" href="https://www.rolex.org/" target="_blank" rel="noopener">
-    <img src="images/history/rolex-logo.svg" alt="Rolex">
-    <span>rolex.org</span>
-  </a>
-</div>
-```
-
-<p class="section__lead" style="margin-top: 2rem">Explore scholar stories from Australasia on <a href="https://owussaustralasia.org/">OWUSS Australasia</a> — the blog where past regional scholars documented training, expeditions and career pathways.</p>
+<p class="section__lead" style="margin-top: 1.5rem">Explore scholar stories from Australasia on <a href="https://owussaustralasia.org/">OWUSS Australasia</a> — the blog where past regional scholars documented training, expeditions and career pathways.</p>
 :::
 :::
 
@@ -68,11 +95,11 @@ The Upwelling Project grows directly from that heritage. We are writing a new ch
 <div class="sponsors-grid">
   <a class="sponsor-card" href="https://www.tabata.com.au/" target="_blank" rel="noopener"><img src="images/history/sponsors/tabata.png" alt="Tabata Australia"><span>Tabata Australia</span></a>
   <a class="sponsor-card" href="https://www.tusa.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/tusa.png" alt="Tusa"><span>Tusa</span></a>
-  <a class="sponsor-card" href="https://www.waterproof.eu/" target="_blank" rel="noopener"><span class="sponsor-card__name">Waterproof</span></a>
+  <a class="sponsor-card" href="https://www.waterproof.eu/" target="_blank" rel="noopener"><img src="images/history/sponsors/waterproof.png" alt="Waterproof"><span>Waterproof</span></a>
   <a class="sponsor-card" href="https://www.fourthelement.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/fourth-element.png" alt="Fourth Element"><span>Fourth Element</span></a>
-  <a class="sponsor-card" href="https://www.padi.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/padi.png" alt="PADI"><span>PADI</span></a>
+  <a class="sponsor-card" href="https://www.padi.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/padi.svg" alt="PADI"><span>PADI</span></a>
   <a class="sponsor-card" href="https://www.gue.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/gue.png" alt="GUE"><span>GUE</span></a>
-  <a class="sponsor-card" href="https://www.divessi.com/" target="_blank" rel="noopener"><span class="sponsor-card__name">SSI</span></a>
+  <a class="sponsor-card" href="https://www.divessi.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/ssi.png" alt="SSI"><span>SSI</span></a>
   <a class="sponsor-card" href="https://www.tdisdi.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/sdi.png" alt="SDI"><span>SDI</span></a>
   <a class="sponsor-card" href="https://www.tdisdi.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/tdi.png" alt="TDI"><span>TDI</span></a>
   <a class="sponsor-card" href="https://www.galapagossky.com/" target="_blank" rel="noopener"><img src="images/history/sponsors/galapagos-sky.png" alt="Galapagos Sky"><span>Galapagos Sky</span></a>

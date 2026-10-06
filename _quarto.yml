@@ -34,12 +34,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: history.qmd
+        text: History
       - href: what-we-offer.qmd
         text: What we offer
       - href: eligibility.qmd
         text: Eligibility & how to apply
-      - href: history.qmd
-        text: History
       - href: contact.qmd
         text: Contact
   page-footer:
