@@ -21,9 +21,9 @@ page-layout: full
     <span class="eyebrow">Our World-Underwater Scholarship Society</span>
     <h2 class="section__title">A legacy of underwater leadership</h2>
     <div class="section__lead">
-      <p>The <a href="https://www.owuscholarship.org/">Our World-Underwater Scholarship Society (OWUSS)</a> was founded in <strong>1974</strong> to foster the next generation of leaders in aquatic and marine fields through experience-based scholarships and internships.</p>
-      <p>The <strong>Australian arm</strong> of OWUSS was born in the <strong>early 2010s</strong>, led by <strong>Jayne Jenkins</strong>. It connected emerging talent across Oceania with training, field work, mentors and sponsors. For many years, Australasian scholars shared that journey publicly on <a href="https://owussaustralasia.org/">OWUSS Australasia</a>, building a rich archive of blogs and reflections from the region.</p>
-      <p>That regional program <strong>lasted until 2024</strong>, when Rolex ended its support — the <strong>longest continuous funding (50 years)</strong> Rolex had ever provided to a single scholarship or program in its history.</p>
+      <p>The <a href="https://www.owuscholarship.org/">Our World-Underwater Scholarship Society (OWUSS)</a> was founded in 1974 to foster the next generation of leaders in aquatic and marine fields through experience-based scholarships and internships.</p>
+      <p>The Australian arm of OWUSS was born in the early 2010s, led by Jayne Jenkins. It connected emerging talent across Oceania with training, field work, mentors and sponsors. For many years, Australasian scholars shared that journey publicly on <a href="https://owussaustralasia.org/">OWUSS Australasia</a>, building a rich archive of blogs and reflections from the region.</p>
+      <p>That regional program lasted until 2024, when Rolex ended its support — the longest continuous funding (50 years) Rolex had ever provided to a single scholarship or program in its history.</p>
     </div>
   </div>
   <div class="heritage-logos heritage-logos--prominent" aria-label="OWUSS and Rolex">
@@ -46,9 +46,9 @@ page-layout: full
 <h2 class="section__title">A year to travel in your field</h2>
 
 <div class="section__lead">
-Internationally, the experience was known as the **Rolex Scholar**. Each scholar received sponsored equipment, networks and funds for a **year-long period to travel in their field** — and an **engraved Rolex Submariner** on top of that support.
+Internationally, the experience was known as the Rolex Scholar. Each scholar received sponsored equipment, networks and funds for a year-long period to travel in their field — and an engraved Rolex Submariner on top of that support.
 
-Typical pathways included **marine science lab exchanges**; **scuba diving qualifications** with any certification agency; **internships** with photographers, videographers, expedition companies and leaders in marine science; **maritime training** (national and international courses); and many other placements shaped around each scholar’s goals.
+Typical pathways included marine science lab exchanges; scuba diving qualifications with any certification agency; internships with photographers, videographers, expedition companies and leaders in marine science; maritime training (national and international courses); and many other placements shaped around each scholar’s goals.
 
 The model was built on trust, curiosity and extraordinary generosity from partners across the underwater world.
 </div>
