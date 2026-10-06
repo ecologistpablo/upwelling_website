@@ -22,6 +22,7 @@ $headings-font-weight: 600;
   --surface: #f3f8f7;
   --card: #ffffff;
   --border: #d9e8e8;
+  --chunk-gap: 1.5cm;
 }
 
 html { overflow-x: hidden; }
@@ -130,6 +131,7 @@ main.content { margin: 0; padding: 0; max-width: none; }
   line-height: 1.6;
 }
 .hero__actions { display: flex; flex-wrap: wrap; gap: 14px; }
+.hero { margin-bottom: var(--chunk-gap); }
 
 .eyebrow {
   display: block;
@@ -168,6 +170,7 @@ main.content { margin: 0; padding: 0; max-width: none; }
 .section {
   width: 100vw;
   margin-left: calc(50% - 50vw);
+  margin-bottom: var(--chunk-gap);
   padding: clamp(96px, 12vw, 148px) 24px;
 }
 .section--surface { background: var(--surface); }
@@ -196,6 +199,7 @@ main.content { margin: 0; padding: 0; max-width: none; }
 .page-hero {
   width: 100vw;
   margin-left: calc(50% - 50vw);
+  margin-bottom: var(--chunk-gap);
   padding: clamp(92px, 12vw, 150px) 24px clamp(70px, 9vw, 110px);
   background:
     radial-gradient(circle at 82% 18%, rgba(96, 197, 187, .22), transparent 25%),
@@ -243,7 +247,7 @@ main.content { margin: 0; padding: 0; max-width: none; }
 .photo-section {
   position: relative;
   width: 100vw;
-  margin: clamp(40px, 6vw, 72px) 0 clamp(40px, 6vw, 72px);
+  margin: 0 0 var(--chunk-gap);
   margin-left: calc(50% - 50vw);
   min-height: 48vh;
   background-size: cover;
