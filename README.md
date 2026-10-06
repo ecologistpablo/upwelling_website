@@ -4,6 +4,8 @@ Quarto website for The Upwelling Project, an Oceania-based initiative backing
 the next generation of ocean leaders through training and practical
 experience.
 
+upwellingproject.org
+
 ## Pages
 
 - Home
