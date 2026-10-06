@@ -7,6 +7,7 @@ project:
     - eligibility.qmd
     - application.qmd
     - contact.qmd
+    - history.qmd
     - privacy.qmd
     - 404.qmd
   resources:
@@ -37,6 +38,8 @@ website:
         text: What we offer
       - href: eligibility.qmd
         text: Eligibility & how to apply
+      - href: history.qmd
+        text: History
       - href: contact.qmd
         text: Contact
   page-footer:
